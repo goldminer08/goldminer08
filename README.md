@@ -44,10 +44,6 @@
 ---
 
 ## 📌 Featured projects
-
-- **🧠 Alzheimer’s Support App** — `React / Node.js`  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/alz-support-app
-
 - **🧩 Colour Aid Device** — `C / STM32`  
   Repo: [https://github.com/YOUR_GITHUB_USERNAME/stm32-projects](https://github.com/goldminer08/ColourAidDevice/tree/main)
 
