@@ -49,7 +49,7 @@
   Repo: https://github.com/YOUR_GITHUB_USERNAME/alz-support-app
 
 - **🧩 Colour Aid Device** — `C / STM32`  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/stm32-projects
+  Repo: [https://github.com/YOUR_GITHUB_USERNAME/stm32-projects](https://github.com/goldminer08/ColourAidDevice/tree/main)
 
 - **⚡ FPGA / Digital Design: Home Thermostat Controller** — `VHDL / FPGA`  
   Repo: https://github.com/YOUR_GITHUB_USERNAME/fpga-labs
