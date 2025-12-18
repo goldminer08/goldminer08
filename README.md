@@ -50,7 +50,7 @@
 - **⚡ FPGA / Digital Design: Home Thermostat Controller** — `VHDL / FPGA`  
   Repo: https://github.com/YOUR_GITHUB_USERNAME/fpga-labs
 
-- **💻 Assembly Programming** - 'RISC-V' 
+- **💻 Assembly Programming** - `RISC-V`
   Repo: https://github.com/goldminer08/Assembly-Programing
 
 - **🧪 Systems + Algorithms (Course/Personal)** — `C++ / C / RISC-V`  
