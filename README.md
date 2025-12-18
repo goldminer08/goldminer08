@@ -42,14 +42,15 @@
 
  <img title="Onion Logo" alt="Onion Logo" height="42"
        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9CGBVA9h8fA72pkH_eFsmHaLu9FFzy9Leg&s" />
+
 ### Devops
 <p>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 </p>
 
-## Software
+### Software
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width = "50" height = "30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width = "50" height = "30"/>
 </p>
 
 ---
