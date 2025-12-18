@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/VHDL-0D9B35?style=for-the-badge&label=" />
 </p>
 
+ <img title="Onion Logo" alt="Onion Logo" height="42"
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9CGBVA9h8fA72pkH_eFsmHaLu9FFzy9Leg&s" />
+
 ---
 
 ## 📌 Projects
