@@ -51,10 +51,10 @@
   Repo: https://github.com/gabrielgraterol/ColourAidDevice
 
 - **💻 Assembly Programming** — `RISC-V Assembly`  
-  Repo: https://github.com/goldminer08/Assembly-Programing
+  Repo: https://github.com/gabrielgraterol/Assembly-Programing
 
 - **🧪 Tree Implementation** — `C++`  
-  Repo: https://github.com/goldminer08/Trie-Implementation
+  Repo: https://github.com/gabrielgraterol/Trie-Implementation
 
 ---
 
