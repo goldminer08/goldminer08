@@ -7,8 +7,8 @@
 ---
 
 ## 🧠 Current Focus
-- Building an app aimed at supporting people affected by Alzheimer’s disease (and their caregivers)
-- Interested in embedded + full-stack + systems-level work
+- Building an app aimed at supporting people affected by Alzheimer’s disease and their caregivers
+- Interests in embedded + full-stack + systems-level work
 
 ---
 
